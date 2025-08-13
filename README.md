@@ -4,10 +4,10 @@ Vimterrier editor
 Text editor with Vim's encryption, for Linux. Forked from [l3afpad](https://github.com/stevenhoneyman/l3afpad) and added encryption
 
 ### How to use
-Download latest terrier.zip from "Releases", unzip, run terrier
+Download latest vimterrier.zip from "Releases", unzip, run vimterrier
 
 ### Build from source
-Terrier requires:
+Vimterrier requires:
 * GTK+-3.x.x libraries
 * ncurses library
 * sodium library
