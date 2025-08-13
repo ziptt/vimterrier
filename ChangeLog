@@ -1,0 +1,8 @@
+
+2025-08-04
+  version 0.8.18.2.2
+    * Fixed: Password prompt did not appear in some cases
+
+2025-07-31
+  version 0.8.18.2.1
+    * Initial release
