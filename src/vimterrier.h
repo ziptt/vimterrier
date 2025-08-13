@@ -17,8 +17,8 @@
  *  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  */
 
-#ifndef _TERRIER_H
-#define _TERRIER_H
+#ifndef _VIMTERRIER_H
+#define _VIMTERRIER_H
 
 #ifdef HAVE_CONFIG_H
 #include "config.h"
@@ -73,10 +73,10 @@ typedef struct {
 	MainWin *mw;
 } PublicData;
 
-#ifndef _TERRIER_MAIN
+#ifndef _VIMTERRIER_MAIN
 extern PublicData *pub;
 #endif
 
 void save_config_file(void);
 
-#endif /* _TERRIER_H */
+#endif /* _VIMTERRIER_H */

@@ -17,7 +17,7 @@
  *  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  */
 
-#define _TERRIER_MAIN
+#define _VIMTERRIER_MAIN
 #include "vimterrier.h"
 #include <glib/gstdio.h>
 #include <sodium.h>
