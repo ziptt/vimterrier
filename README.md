@@ -3,6 +3,8 @@ Vimterrier editor
 --------------
 Text editor with Vim's encryption, for Linux. Forked from [l3afpad](https://github.com/stevenhoneyman/l3afpad) and added encryption
 
+<img width="945" height="546" alt="Screenshot" src="https://github.com/user-attachments/assets/0053276b-3c4e-432a-9947-c3479203cb28" />
+
 ### How to use
 Download latest vimterrier.zip from "Releases", unzip, run vimterrier
 
